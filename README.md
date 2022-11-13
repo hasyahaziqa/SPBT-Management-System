@@ -6,6 +6,9 @@ Skim Pinjaman Buku Teks (SPBT) is  a text book loan program for high school. Thi
 2. Profile Admin
 3. Adding or removing book list (Update book list)
 4. Fines settlement
-5. Adding or removing students (Update students database) 
-
-
+5. Adding or removing students (Update students database)
+6. Reporting
+7. Payment processing
+8. Student management
+9. Borrowing and return book
+10. Search box (View borrower's students book list)
